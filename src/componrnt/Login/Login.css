@@ -1,0 +1,39 @@
+
+.logins {
+margin-top: 0;
+
+}
+.logoes{
+    margin-bottom:50px;
+
+}
+.logoes >img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+ 
+}
+.logbut{
+ border: none;
+      transition: transform 5ms ease-in;
+   box-shadow: 0px 5px 17px -7px rgba(0 0 0 0.75);  
+   display: block;
+  margin-left: auto;
+  margin-right: auto; 
+background-color: rgb(184, 184, 184);
+padding:5px 60px;
+border-radius:5px;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+    outline:none;
+}
+.logbut:hover{
+    border: none;
+    transform: scale(1.5);
+   background-color: rgb(115, 150, 255);
+}
+
+.bps>h6{
+  color: rgb(51, 94, 94);
+}
